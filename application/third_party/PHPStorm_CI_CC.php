@@ -76,6 +76,7 @@
 	 * @property CI_Javascript       $javascript           Javascript Class
 	 ***************** YOUR LIBRARIES *****************
 	 * @property Layout              $layout               Layout Class
+     * @property Doctrine            $doctrine
 	 ***************** YOUR MODELS *****************
 	 * @property user_model          $user_model           ,$user
 	 * @property data_model          $data_model

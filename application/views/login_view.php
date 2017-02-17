@@ -2,10 +2,11 @@
 <html lang="en">
 <!DOCTYPE html>
 <head>
-    <title></title>
+    <title><?php echo $title ?></title>
     <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
 </head>
 <body>
+<?php echo $title ?>
 <form method="POST" action="">
     Username : <input type="text" name="username" value=""/> <br/>
     Password : <input type="password" name="password" value=""/> <br/>
